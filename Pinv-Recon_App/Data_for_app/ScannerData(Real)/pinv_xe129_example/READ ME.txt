@@ -1,0 +1,15 @@
+05/06/2025
+Sofia Pearson
+
+Original Data, and script to extract needed variables:
+
+See script: '\Pinv-Recon_Dev\examples\xenon\pinv_xe129_eg.m'
+
+waveform High res:
+Data from: '/Data/Waveforms/Xenon_3d_spiral/spiral4D_out_129xe_fov400_200_mtx80_41_arms16_16_kdt4_gmax32_smax119_dur3p2_numecho1_GA0_zPE4.mat'
+
+Data from:
+'/Data/Xenon_3d_spiral/010/Churchill/xe3dsp_010ch.mat'
+
+No encoding maps:
+

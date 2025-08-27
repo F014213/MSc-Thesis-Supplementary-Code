@@ -1,0 +1,14 @@
+09/06/2025
+Sofia Pearson
+
+Original Data, and script to extract needed variables:
+
+See script: '\Pinv-Recon_Dev\examples\carbon\pinv_c13_eg.m'
+
+Data from: '/Data/Carbon_multichannel/P04608.7'
+
+Waveform from:'/Data/Carbon_multichannel/Nottingham_Trajectory.mat'
+'/Data/Waveforms/5mL_Index_Values_kylie.mat'
+WHICH ONE??
+
+Recommended Method: Cholesky
