@@ -1,8 +1,0 @@
-04/06/2025
-Sofia Pearson
-Data adapted from: \Pinv-Recon_Dev\misc\public\data
-
- - \fieldmap
- - \structural_phantom_mtx96
-
-To be used in app
